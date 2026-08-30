@@ -101,10 +101,15 @@
 
 ---
 
-### :trophy: GitHub Trophies
+### :trophy: Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xeeshan-zs&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+![Contributions](https://img.shields.io/badge/Contributions-2%2C554-6a0dad?style=for-the-badge&logo=github&logoColor=white)
+![Streak](https://img.shields.io/badge/Longest%20Streak-41%20Days-ff6b6b?style=for-the-badge&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-49-0075ff?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/Active%20Since-Sep%202024-00c853?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---

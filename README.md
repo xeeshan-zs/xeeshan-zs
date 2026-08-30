@@ -120,11 +120,11 @@
 
 | Rank Assessment | Status Record | Assessment Value |
 | :---: | :--- | :---: |
-| 👑 **RANK S** | **Total Contributions** | `2,554+` :zap: |
-| 🔥 **RANK A** | **Longest Grinding Streak** | `41 Days` :dagger: |
-| 🔮 **RANK B** | **Conquered Repositories** | `49 Dungeons` :scroll: |
-| 🛡️ **RANK C** | **Awakened Hunter Since** | `Sep 2024` :hourglass: |
-| ⚡ **RANK EX** | **Evolution Potential** | `Limitless` :milky_way: |
+| :crown: **RANK S** | **Total Contributions** | 2,554+ :zap: |
+| :fire: **RANK A** | **Longest Grinding Streak** | 41 Days :dagger: |
+| :crystal_ball: **RANK B** | **Conquered Repositories** | 49 Dungeons :scroll: |
+| :shield: **RANK C** | **Awakened Hunter Since** | Sep 2024 :hourglass: |
+| :zap: **RANK EX** | **Evolution Potential** | Limitless :milky_way: |
 
 <br/>
 

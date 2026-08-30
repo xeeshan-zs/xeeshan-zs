@@ -23,7 +23,7 @@
 
 <h4>:eye: Dungeon Visitors Count</h4>
 
-<img src="https://count.getloli.com/get/@xeeshan-zs?theme=gelbooru" alt="profile views" />
+<img src="https://count.getloli.com/get/@xeeshan-zs?theme=gelbooru&v=2" alt="profile views" />
 
 </div>
 

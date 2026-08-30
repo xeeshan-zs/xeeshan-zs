@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=6a0dad&height=200&section=header&text=Zeeshan%20Sarfraz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Exploring%20the%20entire%20CS%20stack&descAlignY=85&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Zeeshan+%F0%9F%91%8B;Jack+of+all+trades+%7C+Master+of+none;Solo+Leveling+enjoyer+%E2%9A%94%EF%B8%8F;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+cool+stuff+one+bug+at+a+time;Arise.+%F0%9F%92%9C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Zeeshan+%F0%9F%91%8B;Jack+of+all+trades+%7C+Master+of+none;Solo+Leveling+enjoyer+%E2%9A%94%EF%B8%8F;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+cool+stuff+one+bug+at+a+time;Arise.+%F0%9F%92%9C" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -90,13 +90,13 @@
 ### :bar_chart: GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeeshan-zs&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xeeshan-zs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeeshan-zs&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeeshan-zs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=xeeshan-zs&theme=aura&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=xeeshan-zs&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -104,7 +104,7 @@
 ### :trophy: GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xeeshan-zs&theme=onestar&no-frame=false&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xeeshan-zs&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -128,5 +128,5 @@
 ### :purple_heart: *"The Shadow Monarch rises... one commit at a time."*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer" width="100%"/>
 </div>

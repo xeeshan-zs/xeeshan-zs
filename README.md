@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=6a0dad&height=200&section=header&text=Zeeshan%20Sarfraz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Exploring%20the%20entire%20CS%20stack&descAlignY=85&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Zeeshan+%F0%9F%91%8B;Jack+of+all+trades+%7C+Master+of+none;Solo+Leveling+enjoyer+%E2%9A%94%EF%B8%8F;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+cool+stuff+one+bug+at+a+time;Arise.+%F0%9F%92%9C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Zeeshan+%F0%9F%91%8B;Jack+of+all+trades+%7C+Master+of+none;Solo+Leveling+enjoyer+%E2%9A%94%EF%B8%8F;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+cool+stuff+one+bug+at+a+time;Arise.+%E2%9A%94%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -131,7 +131,7 @@
 ![S-Rank](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_RANK_S-Contributions%3A_2%2C554-FFD700?style=for-the-badge&labelColor=0d001a)
 ![A-Rank](https://img.shields.io/badge/%F0%9F%94%A5_RANK_A-Streak%3A_41_Days-FF4444?style=for-the-badge&labelColor=0d001a)
 ![B-Rank](https://img.shields.io/badge/%F0%9F%93%81_RANK_B-Repos%3A_49-9B59B6?style=for-the-badge&labelColor=0d001a)
-![C-Rank](https://img.shields.io/badge/%F0%9F%92%9C_RANK_C-Since%3A_Sep_2024-4169E1?style=for-the-badge&labelColor=0d001a)
+![C-Rank](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_RANK_C-Since%3A_Sep_2024-4169E1?style=for-the-badge&labelColor=0d001a)
 
 </div>
 

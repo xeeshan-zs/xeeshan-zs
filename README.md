@@ -6,17 +6,24 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/xeeshan-zs" target="_blank"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
+<!-- Solo Leveling Themed Contact Channels -->
+<a href="https://linkedin.com/in/xeeshan-zs" target="_blank">
+  <img src="https://img.shields.io/badge/Hunter_Network-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d001a" height="32" />
+</a>
 &nbsp;&nbsp;
-<a href="mailto:zeeshan303.3.1@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28"/></a>
+<a href="mailto:zeeshan303.3.1@gmai.com">
+  <img src="https://img.shields.io/badge/Guild_Comm-Gmail-9B59B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d001a" height="32" />
+</a>
 &nbsp;&nbsp;
-<a href="https://github.com/xeeshan-zs" target="_blank"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/github.svg"></a>
+<a href="https://github.com/xeeshan-zs" target="_blank">
+  <img src="https://img.shields.io/badge/Shadow_Vault-GitHub-4A0E4E?style=for-the-badge&logo=github&logoColor=white&labelColor=0d001a" height="32" />
+</a>
 
 <br/><br/>
 
-<!-- Pixel anime visitor counter (Solo Leveling style) -->
+<h4>:eye: Dungeon Visitors Count</h4>
+
 <img src="https://count.getloli.com/get/@xeeshan-zs?theme=gelbooru" alt="profile views" />
-<img src="https://img.shields.io/github/followers/xeeshan-zs?label=Followers&style=for-the-badge&color=6a0dad&labelColor=1a1a2e" />
 
 </div>
 
@@ -39,10 +46,12 @@
   Quest  : Ship code before the deadline
 ```
 
-- :telescope: Currently working on **[tav-2.0](https://github.com/xeeshan-zs/tav-2.0)** -> [tavryz.com](https://tavryz.com)
+<!-- RECENT_REPOS:START -->
+- :telescope: Currently grinding on **[tav-2.0](https://github.com/xeeshan-zs/tav-2.0)** -> [https://tavryz.com](https://tavryz.com)
+<!-- RECENT_REPOS:END -->
 - :seedling: Exploring the **entire CS stack** from frontend to backend to mobile
 - :speech_balloon: Ask me about **Flutter, React, Next.js, Node.js, Python, .NET**
-- :email: Email: [zeeshan303.3.1@gmai.com](mailto:zeeshan303.3.1@gmai.com)
+- :email: Guild Mail: [zeeshan303.3.1@gmai.com](mailto:zeeshan303.3.1@gmai.com)
 - :zap: Fun fact: A jack of all trades beats a master of one
 
 <br clear="right"/>
@@ -106,20 +115,13 @@
 
 <div align="center">
 
-`
-╔══════════════════════════════════════════════════════════╗
-║              ⚔  SYSTEM NOTIFICATION  ⚔                   ║
-║          A Player's status has been confirmed.           ║
-╠══════════════════════════════════════════════════════════╣
-║  [RANK  S]  Total Contributions  ──────────────  2,554   ║
-║  [RANK  A]  Longest Streak  ───────────────  41  Days    ║
-║  [RANK  B]  Public Repositories  ──────────────────  49  ║
-║  [RANK  C]  Hunter Since  ──────────────────  Sep 2024   ║
-║  [RANK  D]  Status  ─────────────────────  Still Rising  ║
-╠══════════════════════════════════════════════════════════╣
-║         ║  You are not the weakest anymore.  ║           ║
-╚══════════════════════════════════════════════════════════╝
-`
+| Rank Assessment | Status Record | Assessment Value |
+| :---: | :--- | :---: |
+| 👑 **RANK S** | **Total Contributions** | `2,554+` :zap: |
+| 🔥 **RANK A** | **Longest Grinding Streak** | `41 Days` :dagger: |
+| 🔮 **RANK B** | **Conquered Repositories** | `49 Dungeons` :scroll: |
+| 🛡️ **RANK C** | **Awakened Hunter Since** | `Sep 2024` :hourglass: |
+| ⚡ **RANK EX** | **Evolution Potential** | `Limitless` :milky_way: |
 
 <br/>
 

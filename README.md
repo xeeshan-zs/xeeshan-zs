@@ -14,7 +14,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=xeeshan-zs&label=Profile+Views&color=6a0dad&style=for-the-badge" />
+<!-- Anime-style visitor counter -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xeeshan-zs.xeeshan-zs&left_color=black&right_color=blueviolet&left_text=%E2%9A%94%EF%B8%8F%20Visitors%20Detected&format=true" alt="visitors" />
 <img src="https://img.shields.io/github/followers/xeeshan-zs?label=Followers&style=for-the-badge&color=6a0dad&labelColor=1a1a2e" />
 
 </div>
@@ -129,8 +130,6 @@
 </div>
 
 ---
-
-### :purple_heart: *"The Shadow Monarch rises... one commit at a time."*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=footer" width="100%"/>

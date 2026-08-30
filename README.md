@@ -14,8 +14,8 @@
 
 <br/><br/>
 
-<!-- Anime-style visitor counter -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=xeeshan-zs.xeeshan-zs&left_color=black&right_color=blueviolet&left_text=%E2%9A%94%EF%B8%8F%20Visitors%20Detected&format=true" alt="visitors" />
+<!-- Pixel anime visitor counter (Solo Leveling style) -->
+<img src="https://count.getloli.com/get/@xeeshan-zs?theme=gelbooru" alt="profile views" />
 <img src="https://img.shields.io/github/followers/xeeshan-zs?label=Followers&style=for-the-badge&color=6a0dad&labelColor=1a1a2e" />
 
 </div>
@@ -102,14 +102,31 @@
 
 ---
 
-### :trophy: Achievements
+### :trophy: Hunter System — Player Assessment
 
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Contributions-2%2C554-6a0dad?style=for-the-badge&logo=github&logoColor=white)
-![Streak](https://img.shields.io/badge/Longest%20Streak-41%20Days-ff6b6b?style=for-the-badge&logoColor=white)
-![Repos](https://img.shields.io/badge/Repositories-49-0075ff?style=for-the-badge&logo=github&logoColor=white)
-![Since](https://img.shields.io/badge/Active%20Since-Sep%202024-00c853?style=for-the-badge&logo=github&logoColor=white)
+`
+╔══════════════════════════════════════════════════════════╗
+║              ⚔  SYSTEM NOTIFICATION  ⚔                   ║
+║          A Player's status has been confirmed.           ║
+╠══════════════════════════════════════════════════════════╣
+║  [RANK  S]  Total Contributions  ──────────────  2,554   ║
+║  [RANK  A]  Longest Streak  ───────────────  41  Days    ║
+║  [RANK  B]  Public Repositories  ──────────────────  49  ║
+║  [RANK  C]  Hunter Since  ──────────────────  Sep 2024   ║
+║  [RANK  D]  Status  ─────────────────────  Still Rising  ║
+╠══════════════════════════════════════════════════════════╣
+║         ║  You are not the weakest anymore.  ║           ║
+╚══════════════════════════════════════════════════════════╝
+`
+
+<br/>
+
+![S-Rank](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_RANK_S-Contributions%3A_2%2C554-FFD700?style=for-the-badge&labelColor=0d001a)
+![A-Rank](https://img.shields.io/badge/%F0%9F%94%A5_RANK_A-Streak%3A_41_Days-FF4444?style=for-the-badge&labelColor=0d001a)
+![B-Rank](https://img.shields.io/badge/%F0%9F%93%81_RANK_B-Repos%3A_49-9B59B6?style=for-the-badge&labelColor=0d001a)
+![C-Rank](https://img.shields.io/badge/%F0%9F%92%9C_RANK_C-Since%3A_Sep_2024-4169E1?style=for-the-badge&labelColor=0d001a)
 
 </div>
 

@@ -4,11 +4,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Zeeshan+%F0%9F%91%8B;Jack+of+all+trades+%7C+Master+of+none;Solo+Leveling+enjoyer+%E2%9A%94%EF%B8%8F;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+cool+stuff+one+bug+at+a+time;Arise.+%F0%9F%92%9C" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/xeeshan-zs" target="_blank"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>
 &nbsp;&nbsp;
-<a href="mailto:zeeshan303.3.1@gmai.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/gmail.svg"></a>
+<a href="mailto:zeeshan303.3.1@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/xeeshan-zs" target="_blank"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/github.svg"></a>
 
@@ -90,9 +90,9 @@
 ### :bar_chart: GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xeeshan-zs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=xeeshan-zs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeeshan-zs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=xeeshan-zs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@
 ### :trophy: GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xeeshan-zs&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xeeshan-zs&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---

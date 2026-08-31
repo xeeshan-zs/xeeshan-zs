@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Hunter_Network-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d001a" height="32" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:zeeshan303.3.1@gmai.com">
+<a href="mailto:dev.xeeshan.zs@gmai.com">
   <img src="https://img.shields.io/badge/Guild_Comm-Gmail-9B59B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d001a" height="32" />
 </a>
 &nbsp;&nbsp;

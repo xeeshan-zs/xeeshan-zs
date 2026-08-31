@@ -50,11 +50,11 @@
 - :telescope: Currently grinding on **[tav-2.0](https://github.com/xeeshan-zs/tav-2.0)** -> [https://tavryz.com](https://tavryz.com)
 - :crossed_swords: **Recent Quests & Dungeons:**
   - :zap: **[zyfiro](https://github.com/xeeshan-zs/zyfiro)**
-  - :zap: **[darzi](https://github.com/xeeshan-zs/darzi)** - mkb darzi
+  - :zap: **[darzi](https://github.com/xeeshan-zs/darzi)** 
 <!-- RECENT_REPOS:END -->
 - :seedling: Exploring the **entire CS stack** from frontend to backend to mobile
 - :speech_balloon: Ask me about **Flutter, React, Next.js, Node.js, Python, .NET**
-- :email: Guild Mail: [zeeshan303.3.1@gmai.com](mailto:zeeshan303.3.1@gmai.com)
+- :email: Guild Mail: [dev.xeeshan.zs@gmai.com](mailto:dev.xeeshan.zs@gmai.com)
 - :zap: Fun fact: A jack of all trades beats a master of one
 
 <br clear="right"/>

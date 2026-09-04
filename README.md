@@ -47,7 +47,7 @@
 ```
 
 <!-- RECENT_REPOS:START -->
-- :telescope: Currently grinding on **[The-Eyes](https://github.com/xeeshan-zs/The-Eyes)** - *Forensic 2D FFT Frequency Fingerprint Classifier for AI-Generated vs. Real Images (FastAPI + React + Tailwind)*
+- :telescope: Currently grinding on **[The-Eyes](https://github.com/xeeshan-zs/The-Eyes)** - *Forensic 2D FFT Frequency Fingerprint Classifier for AI-Generated vs. Real Images (FastAPI + React + Tailwind)* -> [eyes.zyfiro.org](eyes.zyfiro.org)
 - :crossed_swords: **Recent Quests & Dungeons:**
   - :zap: **[tav-2.0](https://github.com/xeeshan-zs/tav-2.0)**
   - :zap: **[zyfiro](https://github.com/xeeshan-zs/zyfiro)**

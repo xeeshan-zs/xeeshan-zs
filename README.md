@@ -47,10 +47,10 @@
 ```
 
 <!-- RECENT_REPOS:START -->
-- :telescope: Currently grinding on **[zohaib-inmotion](https://github.com/xeeshan-zs/zohaib-inmotion)** -> [zohaib-inmotion.web.app](zohaib-inmotion.web.app)
+- :telescope: Currently grinding on **[zyfiro](https://github.com/xeeshan-zs/zyfiro)** -> [https://zyfiro.org](https://zyfiro.org)
 - :crossed_swords: **Recent Quests & Dungeons:**
+  - :zap: **[zohaib-inmotion](https://github.com/xeeshan-zs/zohaib-inmotion)**
   - :zap: **[The-Eyes](https://github.com/xeeshan-zs/The-Eyes)** - Forensic 2D FFT Frequency Fingerprint Classifier for AI-Generated vs. Real Images (FastAPI + React + Tailwind)
-  - :zap: **[tav-2.0](https://github.com/xeeshan-zs/tav-2.0)**
 <!-- RECENT_REPOS:END -->
 - :seedling: Exploring the **entire CS stack** from frontend to backend to mobile
 - :speech_balloon: Ask me about **Flutter, React, Next.js, Node.js, Python, .NET**

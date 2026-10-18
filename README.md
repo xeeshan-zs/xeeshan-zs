@@ -47,10 +47,10 @@
 ```
 
 <!-- RECENT_REPOS:START -->
-- :telescope: Currently grinding on **[portfolio](https://github.com/xeeshan-zs/portfolio)** - *My Portfolio* -> [https://zeeshan-sarfraz.web.app/](https://zeeshan-sarfraz.web.app/)
+- :telescope: Currently grinding on **[hactoberfest](https://github.com/xeeshan-zs/hactoberfest)**
 - :crossed_swords: **Recent Quests & Dungeons:**
+  - :zap: **[portfolio](https://github.com/xeeshan-zs/portfolio)** - My Portfolio
   - :zap: **[zohaib-inmotion](https://github.com/xeeshan-zs/zohaib-inmotion)**
-  - :zap: **[tav-2.0](https://github.com/xeeshan-zs/tav-2.0)**
 <!-- RECENT_REPOS:END -->
 - :seedling: Exploring the **entire CS stack** from frontend to backend to mobile
 - :speech_balloon: Ask me about **Flutter, React, Next.js, Node.js, Python, .NET**

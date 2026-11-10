@@ -47,10 +47,10 @@
 ```
 
 <!-- RECENT_REPOS:START -->
-- :telescope: Currently grinding on **[hactoberfest](https://github.com/xeeshan-zs/hactoberfest)**
+- :telescope: Currently grinding on **[The-Eyes](https://github.com/xeeshan-zs/The-Eyes)** - *Forensic 2D FFT Frequency Fingerprint Classifier for AI-Generated vs. Real Images (FastAPI + React + Tailwind)* -> [eyes.zyfiro.org](eyes.zyfiro.org)
 - :crossed_swords: **Recent Quests & Dungeons:**
+  - :zap: **[hactoberfest](https://github.com/xeeshan-zs/hactoberfest)**
   - :zap: **[portfolio](https://github.com/xeeshan-zs/portfolio)** - My Portfolio
-  - :zap: **[zohaib-inmotion](https://github.com/xeeshan-zs/zohaib-inmotion)**
 <!-- RECENT_REPOS:END -->
 - :seedling: Exploring the **entire CS stack** from frontend to backend to mobile
 - :speech_balloon: Ask me about **Flutter, React, Next.js, Node.js, Python, .NET**
